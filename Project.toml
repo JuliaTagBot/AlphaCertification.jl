@@ -1,6 +1,6 @@
 name = "AlphaCertification"
 uuid = "c784153a-4839-4c50-89f3-85c7ac6ea019"
-authors = ["Sascha Timme <sascha.timme@gmail.com>"]
+authors = ["Kemal Rose", "Sascha Timme <sascha.timme@gmail.com>"]
 version = "0.1.0"
 
 [compat]
